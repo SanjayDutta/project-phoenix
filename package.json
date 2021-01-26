@@ -1,0 +1,14 @@
+{
+  "name": "projectphoenix",
+  "version": "1.0.0",
+  "description": "Platform to connect talent with power",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darktheon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
